@@ -1,0 +1,12 @@
+{
+  "products": [
+    {"name":  "Coca-Cola", "size":  "0.5l", "price":  1.0, "code":  1, "inStock": 5},
+    {"name":  "Vytautas", "size":  "0.5l", "price":  0.5, "code":  2, "inStock": 2},
+    {"name":  "Snickers", "size":  "50g", "price":  1.0, "code":  3, "inStock": 3}
+  ],
+  "wallet": [
+    {"coin":  10, "count":  15},
+    {"coin":  20, "count":  5},
+    {"coin":  50, "count":  12}
+  ]
+}
